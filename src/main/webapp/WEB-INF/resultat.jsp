@@ -16,26 +16,16 @@
 
 <div class="container">
 
-    <img src="images/bmiBar.jpg" class="img-fluid"/>
+    <img src="../images/bmiBar.jpg" class="img-fluid"/>
 
     <h1 class="mt-4 text-center">BMI-beregner</h1>
 
-    <form action="FrontController" method="post">
-        <input type="hidden" name="taget" value="resultat"/>
 
-        <div class="form-group">
-            <label for="height">Højde i cm:</label>
-            <input id="height" name="height" type="text" class="form-control" aria-describedby="emailHelp">
-            <small id="heightHelp" class="form-text text-muted">Du skal ikke være flov over din vægt</small>
-        </div>
-        <div class="form-group">
-            <label for="weight">Vægt i kg:</label>
-            <input id="weight" type="text" class="form-control">
-        </div>
+
 
         <button type="submit" class="btn btn-primary">Beregn BMI</button>
 
-    </form>
+
 
 </div>
 

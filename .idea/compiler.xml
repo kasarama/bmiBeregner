@@ -9,6 +9,7 @@
         <module name="prejektSkabelon" />
         <module name="ProjektSkabelon-master" />
         <module name="Projektskabelon-master" />
+        <module name="bmiBeregner" />
         <module name="Projektskabelon" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="ProjektSkabelon-master" options="-endorseddirs &quot;$PROJECT_DIR$/target/endorsed&quot;" />
       <module name="Projektskabelon" options="-endorseddirs &quot;$PROJECT_DIR$/target/endorsed&quot;" />
       <module name="Projektskabelon-master" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
+      <module name="bmiBeregner" options="-endorseddirs C:\Skole\IdeaProjects\bmiBeregner\target/endorsed" />
       <module name="prejektSkabelon" options="-endorseddirs &quot;$PROJECT_DIR$/target/endorsed&quot;" />
     </option>
   </component>
